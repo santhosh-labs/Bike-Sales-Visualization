@@ -27,7 +27,7 @@ This project features an interactive Excel dashboard that visualizes key insight
 ## 📁 Files
 
 - `Bike_Sales_Dashboard.xlsx` – The Excel file containing the interactive dashboard and pre-loaded pivot tables.
-- `Bike_Sales_Data.csv` – The raw dataset used to create the dashboard. It includes customer demographics, income, commute distance, education, and bike purchase status.
+- `Bike_Sales_Data.xlsx` – The raw dataset used to create the dashboard. It includes customer demographics, income, commute distance, education, and bike purchase status.
 - `Dashboad IMG.png` – A visual preview of the dashboard used in this README.
 
 

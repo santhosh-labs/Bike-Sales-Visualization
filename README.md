@@ -48,6 +48,7 @@ This project features an interactive Excel dashboard that visualizes key insight
 
 ```bash
 git clone https://github.com/santhosh-labs/Bike-Sales-Visualization.git
+```
 ---
 ## 👤 Author
 
